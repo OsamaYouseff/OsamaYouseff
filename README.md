@@ -6,11 +6,11 @@
 ### - How to reach me : " osamaseto2002@gmail.com ".
 ## Languages and Tools 🛠 :
 ![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/510a6236-e383-4727-9c3c-af7e10d75e8d)
-### ---- HTML ----
-![732190](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/3523e691-4df3-41b5-b42f-b9bc6b8d2818)
-### ---- CSS ----
-![5968292](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/16e019bc-610d-4511-8f6a-6c4f06fb9593)
-### ---- JavaScript ----
+### HTML 
+![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/9522ceb2-ea89-4509-83af-780787a5f841)
+### CSS
+![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/b3674df6-7ec5-46a4-8a0c-af27e825d57e)
+### JavaScript
 ![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/9573136a-cf76-4234-a640-9271ae41a3f1)
 ### tailwind CSS 
 ![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/b684685c-4875-445e-89de-13811314c6a6)
