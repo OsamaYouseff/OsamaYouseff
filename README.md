@@ -5,7 +5,7 @@
 ### - I’m currently learning advanced JavaScript.
 ### - How to reach me : " osamaseto2002@gmail.com ".
 ## Languages and Tools 🛠 :
-![1051277](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/54d05613-713d-4b4c-9c0f-45408ddc10aa) 
+![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/510a6236-e383-4727-9c3c-af7e10d75e8d)
 ### ---- HTML ----
 ![732190](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/3523e691-4df3-41b5-b42f-b9bc6b8d2818)
 ### ---- CSS ----
