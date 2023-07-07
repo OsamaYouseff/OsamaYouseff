@@ -12,13 +12,13 @@
 ![5968292](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/16e019bc-610d-4511-8f6a-6c4f06fb9593)
 ### ---- JavaScript ----
 ![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/9573136a-cf76-4234-a640-9271ae41a3f1)
-### ---- tailwind CSS ----
+### tailwind CSS 
 ![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/b684685c-4875-445e-89de-13811314c6a6)
-### ---- VS Code ----
+### VS Code 
 ![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/8109ce6c-929d-46cc-9816-d3919bebd41d)
-### ---- windows 11 ----
+### windows 11 
 ![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/457fb012-8a26-486f-805b-2e5320e9c402)
-### ---- Github ----
+### Github 
 ![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/f244db48-a6c8-4d3c-91e8-045f249f733c)
-### ---- Notion ----
+### Notion 
 
