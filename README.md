@@ -10,8 +10,8 @@
 ![732190](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/3523e691-4df3-41b5-b42f-b9bc6b8d2818)
 ### ---- CSS ----
 ![5968292](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/16e019bc-610d-4511-8f6a-6c4f06fb9593)
- JavaScript ----
-### ----![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/9573136a-cf76-4234-a640-9271ae41a3f1)
+### ---- JavaScript ----
+![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/9573136a-cf76-4234-a640-9271ae41a3f1)
 ### ---- tailwind CSS ----
 ![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/b684685c-4875-445e-89de-13811314c6a6)
 ### ---- VS Code ----
