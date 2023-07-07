@@ -17,7 +17,7 @@
 ### VS Code 
 ![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/8109ce6c-929d-46cc-9816-d3919bebd41d)
 ### windows 11 
-![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/b47f9c44-7f21-4d75-aed5-9d699bdfb0a3)
+![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/6951beb2-74fe-4278-8741-1490373fd99f)
 ### Github 
 ![img icons8](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/ed234d5d-397f-469e-8006-6b85b682fdd4)
 ### Notion 
