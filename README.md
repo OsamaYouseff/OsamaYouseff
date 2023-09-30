@@ -4,8 +4,10 @@
 ### - I’m interested in front-end development, I really enjoy learning Programming languages and frameworks 
 ### - I’m currently learning advanced JavaScript.
 ### - How to reach me : 
-##  " osamaseto2002@gmail.com ".
-##  " https://www.linkedin.com/in/osama-youseff-5341a3224/ ".
+## Email : " osamaseto2002@gmail.com ".
+## Linkedin :  " https://www.linkedin.com/in/osama-youseff-5341a3224/ ".
+## Portfolio :  " https://www.linkedin.com/in/osama-youseff-5341a3224/ ](https://osamayouseff.github.io/Osama_Youseff_portfolio_website/ ".
+
 ![49e76e0596857673c5c80c85b84394c1](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/97fe4ac1-4ca7-4207-938c-ffef055f4fe3)
 
 ## Languages and Tools 🛠 :
