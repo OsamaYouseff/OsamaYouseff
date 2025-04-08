@@ -8,8 +8,6 @@
 ## Linkedin :  " https://www.linkedin.com/in/osama-youseff-5341a3224/ ".
 ## Portfolio :  " https://osama-youseff-portfolio.vercel.app/ ".
 
-![49e76e0596857673c5c80c85b84394c1](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/97fe4ac1-4ca7-4207-938c-ffef055f4fe3)
-
 ## Languages and Tools 🛠 :
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666](https://github.com/OsamaYouseff/OsamaYouseff/assets/94643063/069de9f9-77b5-41eb-9b32-adb5a5ef597b)
