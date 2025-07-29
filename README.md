@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Osama Youseff**, Welcome To My Github Profile ♥
 
 ### About me :
-### - I’m interested in front-end development, I enjoy learning Programming languages and frameworks 
+### - I’m interested in web development, I enjoy learning Programming languages and frameworks 
 ### - I’m currently working on some projects.
 ### - How to reach me : 
 ## Email : " osamaseto2002@gmail.com ".
